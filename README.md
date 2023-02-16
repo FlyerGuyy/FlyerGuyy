@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FlyerGuyy
+- 👋 Hi, I’m @Daghlas Kenyatta (k.d_kai)
 - 👀 I’m interested in Mobile Application Development and Data Analysis
 - 🌱 I’m currently learning Data Analysis and Cloud Computing
 - 💞️ I’m looking to collaborate on ...
